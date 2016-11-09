@@ -1,0 +1,28 @@
+{
+  "name": "example-nodejs",
+  "version": "1.0.0",
+  "description": "Example Node Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "app",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/postageapp/postageapp-nodejs-example.git"
+  },
+  "keywords": [
+    "postageapp",
+    "email",
+    "nodejs"
+  ],
+  "author": "Scott Tadman <tadman@postageapp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/postageapp/postageapp-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/postageapp/postageapp-nodejs-example#readme",
+  "dependencies": {
+    "postageapp": "^1.1.5"
+  }
+}
